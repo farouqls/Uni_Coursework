@@ -1,0 +1,13 @@
+ParcelID,RecipientName,Contact,ParcelType,DeliveryMode,DeliveryAddress,ArrivalTime
+PCL001,Aisha Rahman,0123456781,Standard,Collection,-,2026-11-08 08:15
+PCL002,Daniel Tan,0123456782,Fragile,Delivery,Block B Room 305,2026-11-08 08:20
+PCL003,Priya Nair,0123456783,Document,Collection,-,2026-11-08 08:32
+PCL004,Hassan Ali,0123456784,Oversized,Delivery,Block A Room 112,2026-11-08 08:41
+PCL005,Mei Ling Wong,0123456785,Standard,Delivery,Block C Room 220,2026-11-08 09:05
+PCL006,Kofi Mensah,+60123456786,Fragile,Collection,-,2026-11-08 09:12
+PCL007,Sara Ibrahim,0123456787,Document,Delivery,Staff Office Level 4,2026-11-08 09:30
+PCL008,Arjun Singh,0123456788,Standard,Collection,-,2026-11-08 09:44
+PCL009,Chen Wei,0123456789,Oversized,Collection,-,2026-11-08 10:02
+PCL010,Fatima Yusuf,0123456790,Standard,Delivery,Block B Room 118,2026-11-08 10:15
+PCL011,Lucas Pereira,0123456791,Fragile,Delivery,Block D Room 401,2026-11-08 10:21
+PCL012,Nur Aina,0123456792,Document,Collection,-,2026-11-08 10:37
